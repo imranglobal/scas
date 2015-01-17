@@ -8,6 +8,9 @@
 	<link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri(); ?>/css/grid.css">
 	<link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri(); ?>/css/style.css">
 	<link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri(); ?>/css/camera.css">
+	<?php if( is_page_template( 'page-contact.php' ) )  { ?>
+		<link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri(); ?>/css/contact-form.css">
+	<?php } ?>
 	<script src="<?php echo get_stylesheet_directory_uri(); ?>/js/jquery.js"></script>
 	<script src="<?php echo get_stylesheet_directory_uri(); ?>/js/jquery-migrate-1.2.1.js"></script>
 	<script src="<?php echo get_stylesheet_directory_uri(); ?>/js/camera.js"></script>
