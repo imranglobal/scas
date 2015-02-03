@@ -55,7 +55,10 @@
 			<div class="row">
 				<div class="grid_12">
 
-					<p class="txt_priv wow fadeInLeft">Delivery &copy; <span id="copyright-year"></span>. <a href="index-5.html">Privacy Policy</a><br>More <a rel="nofollow" href="http://www.templatemonster.com/category/delivery-services-website-templates/" target="_blank">Delivery Services Website Templates at TemplateMonster.com</a></p>
+					<p class="txt_priv wow fadeInLeft">Delivery &copy; <span id="copyright-year"></span>. <a href="index-5.html">Privacy Policy</a><br>
+						
+						
+					</p>
 
 
 
